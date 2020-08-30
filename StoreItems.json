@@ -6468,6 +6468,210 @@
 		"category": "Furniture",
 		"defname": "Bed_StoneSlab"
 	},
+	{
+		"abr": "builder(i)basestation",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_I"
+	},
+	{
+		"abr": "builder(ii)basestation",
+		"price": 2058,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_II"
+	},
+	{
+		"abr": "builder(iii)basestation",
+		"price": 4533,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_III"
+	},
+	{
+		"abr": "builder(iv)basestation",
+		"price": 9417,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_IV"
+	},
+	{
+		"abr": "builder(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_V"
+	},
+	{
+		"abr": "cleanerbasestation",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Cleaner"
+	},
+	{
+		"abr": "cleaner(ii)basestation",
+		"price": 2058,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Cleaner_II"
+	},
+	{
+		"abr": "cleaner(iii)basestation",
+		"price": 4533,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Cleaner_III"
+	},
+	{
+		"abr": "cleaner(iv)basestation",
+		"price": 9417,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Cleaner_IV"
+	},
+	{
+		"abr": "cleaner(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Cleaner_V"
+	},
+	{
+		"abr": "crafter(i)basestation",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Crafter_I"
+	},
+	{
+		"abr": "crafter(ii)basestation",
+		"price": 2058,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Crafter_II"
+	},
+	{
+		"abr": "crafter(iii)basestation",
+		"price": 4533,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Crafter_III"
+	},
+	{
+		"abr": "crafter(iv)basestation",
+		"price": 9417,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Crafter_IV"
+	},
+	{
+		"abr": "crafter(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Crafter_V"
+	},
+	{
+		"abr": "er(i)basestation",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_ER_I"
+	},
+	{
+		"abr": "er(ii)basestation",
+		"price": 2058,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_ER_II"
+	},
+	{
+		"abr": "er(iii)basestation",
+		"price": 4533,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_ER_III"
+	},
+	{
+		"abr": "er(iv)basestation",
+		"price": 9417,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_ER_IV"
+	},
+	{
+		"abr": "er(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_ER_V"
+	},
+	{
+		"abr": "haulerbasestation",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Hauler"
+	},
+	{
+		"abr": "hauler(ii)basestation",
+		"price": 2058,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Hauler_II"
+	},
+	{
+		"abr": "hauler(iii)basestation",
+		"price": 4533,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Hauler_III"
+	},
+	{
+		"abr": "hauler(iv)basestation",
+		"price": 9417,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Hauler_IV"
+	},
+	{
+		"abr": "hauler(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Hauler_V"
+	},
+	{
+		"abr": "kitchen(i)basestation",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Kitchen_I"
+	},
+	{
+		"abr": "kitchen(ii)basestation",
+		"price": 2058,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Kitchen_II"
+	},
+	{
+		"abr": "kitchen(iii)basestation",
+		"price": 4533,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Kitchen_III"
+	},
+	{
+		"abr": "kitchen(iv)basestation",
+		"price": 9417,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Kitchen_IV"
+	},
+	{
+		"abr": "kitchen(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Kitchen_V"
+	},
+	{
+		"abr": "omni(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Omni_V"
+	},
+	{
+		"abr": "prostheticstable",
+		"price": 4058,
+		"category": "Production",
+		"defname": "TableProsthetics"
+	},
+	{
+		"abr": "roboticcomponent",
+		"price": 333,
+		"category": "Items",
+		"defname": "RPP_Component"
+	},
+	{
+		"abr": "roboticmatrix(advanced)",
+		"price": 8817,
+		"category": "Items",
+		"defname": "RPP_Matrix_IV"
+	}
 	],
-	"total": 1128
+	"total": 1162
 }
