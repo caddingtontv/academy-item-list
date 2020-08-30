@@ -2,13 +2,8 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
+		"price": 900,
 		"karmatype": "Doom"
-	},
-	{
-		"abr": "tornados",
-		"price": 1000,
-		"karmatype": "Bad"
 	},
 	{
 		"abr": "clearweather",
@@ -137,7 +132,7 @@
 	},
 	{
 		"abr": "maninblack",
-		"price": 700,
+		"price": 350,
 		"karmatype": "Good"
 	},
 	{
@@ -262,12 +257,12 @@
 	},
 	{
 		"abr": "randomdisease",
-		"price": 1000,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "disease",
-		"price": 1000,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
@@ -366,5 +361,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 73
+	"total": 72
 }
