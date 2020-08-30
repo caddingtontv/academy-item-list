@@ -97,32 +97,14 @@
 		"defname": "AIChip"
 	},
 	{
-		"abr": "air-conindoorunit",
-		"price": 82,
-		"category": "Hygiene",
-		"defname": "AirconIndoorUnit"
-	},
-	{
-		"abr": "air-conoutdoorunit",
-		"price": 458,
-		"category": "Hygiene",
-		"defname": "AirConOutdoorUnit"
-	},
-	{
-		"abr": "air-conpipe",
-		"price": 5,
-		"category": "Misc",
-		"defname": "airPipe"
-	},
-	{
 		"abr": "aisr2g",
-		"price": 3617,
+		"price": -10,
 		"category": "Road equipment",
 		"defname": "RotR_AISR2GNew"
 	},
 	{
 		"abr": "aisr2g",
-		"price": 8967,
+		"price": -10,
 		"category": "Power",
 		"defname": "RotR_AISR2G"
 	},
@@ -487,22 +469,10 @@
 		"defname": "VAE_Headgear_BaseballCap"
 	},
 	{
-		"abr": "basin",
-		"price": 52,
-		"category": "Hygiene",
-		"defname": "BasinStuff"
-	},
-	{
 		"abr": "bass",
 		"price": 3,
 		"category": "Raw fish",
 		"defname": "VCEF_RawBass"
-	},
-	{
-		"abr": "bathtub",
-		"price": 124,
-		"category": "Hygiene",
-		"defname": "BathtubStuff"
 	},
 	{
 		"abr": "baton",
@@ -653,18 +623,6 @@
 		"price": 1675,
 		"category": "Bionic",
 		"defname": "BionicSpine"
-	},
-	{
-		"abr": "biosolids",
-		"price": 0,
-		"category": "Waste",
-		"defname": "Biosolids"
-	},
-	{
-		"abr": "biosolidscomposter",
-		"price": 146,
-		"category": "Hygiene",
-		"defname": "BiosolidsComposter"
 	},
 	{
 		"abr": "birdmeat",
@@ -859,12 +817,6 @@
 		"defname": "VAE_Apparel_BulletproofVest"
 	},
 	{
-		"abr": "burnpit",
-		"price": 65,
-		"category": "Misc",
-		"defname": "BurnPit"
-	},
-	{
 		"abr": "butchertable",
 		"price": 302,
 		"category": "Production",
@@ -1001,18 +953,6 @@
 		"price": 12,
 		"category": "Misc",
 		"defname": "VFES_CavalrySpikes"
-	},
-	{
-		"abr": "ceilingfan1x1",
-		"price": 184,
-		"category": "Hygiene",
-		"defname": "CeilingFanS"
-	},
-	{
-		"abr": "ceilingfan2x2",
-		"price": 184,
-		"category": "Hygiene",
-		"defname": "CeilingFan"
 	},
 	{
 		"abr": "chainshotgun",
@@ -1501,12 +1441,6 @@
 		"defname": "DeepDrill"
 	},
 	{
-		"abr": "deepwaterwell",
-		"price": 492,
-		"category": "Misc",
-		"defname": "DeepWaterWellInlet"
-	},
-	{
 		"abr": "deer",
 		"price": 417,
 		"category": "Animal",
@@ -1753,12 +1687,6 @@
 		"defname": "VCEF_RawEel"
 	},
 	{
-		"abr": "electricboiler",
-		"price": 425,
-		"category": "Hygiene",
-		"defname": "ElectricBoiler"
-	},
-	{
 		"abr": "electricbutcher",
 		"price": 492,
 		"category": "Production",
@@ -1775,12 +1703,6 @@
 		"price": 1292,
 		"category": "Production",
 		"defname": "VFE_TableDrugLabElectric"
-	},
-	{
-		"abr": "electricpump",
-		"price": 316,
-		"category": "Hygiene",
-		"defname": "ElectricPump"
 	},
 	{
 		"abr": "electricsmelter",
@@ -2005,12 +1927,6 @@
 		"defname": "VWE_Gun_FireExtinguisher"
 	},
 	{
-		"abr": "firesprinkler",
-		"price": 104,
-		"category": "Hygiene",
-		"defname": "FireSprinkler"
-	},
-	{
 		"abr": "firefoampopper",
 		"price": 300,
 		"category": "Misc",
@@ -2101,12 +2017,6 @@
 		"defname": "QE_Organ_Foot"
 	},
 	{
-		"abr": "fountain",
-		"price": 52,
-		"category": "Hygiene",
-		"defname": "Fountain"
-	},
-	{
 		"abr": "foxmeat",
 		"price": 3,
 		"category": "Meat",
@@ -2165,12 +2075,6 @@
 		"price": 153,
 		"category": "Furniture",
 		"defname": "GameOfUrBoard"
-	},
-	{
-		"abr": "gasboiler",
-		"price": 425,
-		"category": "Hygiene",
-		"defname": "GasBoiler"
 	},
 	{
 		"abr": "gasmask",
@@ -2743,24 +2647,6 @@
 		"defname": "HospitalBed"
 	},
 	{
-		"abr": "hottub",
-		"price": 800,
-		"category": "Hygiene",
-		"defname": "HotTub"
-	},
-	{
-		"abr": "hotwatertank",
-		"price": 245,
-		"category": "Hygiene",
-		"defname": "HotWaterTank"
-	},
-	{
-		"abr": "hugewatertower",
-		"price": 717,
-		"category": "Misc",
-		"defname": "WaterTowerL"
-	},
-	{
 		"abr": "humanleather",
 		"price": 7,
 		"category": "Leathers",
@@ -2941,20 +2827,14 @@
 		"defname": "Facility_IVDrip"
 	},
 	{
-		"abr": "irrigationsprinkler",
-		"price": 102,
-		"category": "Hygiene",
-		"defname": "IrrigationSprinkler"
-	},
-	{
 		"abr": "isr2g",
-		"price": 958,
+		"price": -10,
 		"category": "Road equipment",
 		"defname": "RotR_ISR2GNew"
 	},
 	{
 		"abr": "isr2g",
-		"price": 48,
+		"price": -10,
 		"category": "Power",
 		"defname": "RotR_ISR2G"
 	},
@@ -3025,12 +2905,6 @@
 		"defname": "Kidney"
 	},
 	{
-		"abr": "kitchensink",
-		"price": 167,
-		"category": "Hygiene",
-		"defname": "KitchenSink"
-	},
-	{
 		"abr": "kitchensinkcabinet",
 		"price": 327,
 		"category": "Misc",
@@ -3079,12 +2953,6 @@
 		"defname": "LargeBackpackMC"
 	},
 	{
-		"abr": "largeradiator",
-		"price": 252,
-		"category": "Hygiene",
-		"defname": "RadiatorLarge"
-	},
-	{
 		"abr": "largerug",
 		"price": 492,
 		"category": "Art",
@@ -3113,12 +2981,6 @@
 		"price": 467,
 		"category": "Misc",
 		"defname": "SteleLarge"
-	},
-	{
-		"abr": "latrine",
-		"price": 55,
-		"category": "Hygiene",
-		"defname": "PitLatrine"
 	},
 	{
 		"abr": "lavishmeal",
@@ -3205,12 +3067,6 @@
 		"defname": "AEXP_Leather_Lion"
 	},
 	{
-		"abr": "litterbox",
-		"price": 52,
-		"category": "Hygiene",
-		"defname": "LitterBox"
-	},
-	{
 		"abr": "liver",
 		"price": 3333,
 		"category": "Natural",
@@ -3233,12 +3089,6 @@
 		"price": 20,
 		"category": "Raw fish",
 		"defname": "VCEF_RawLobster"
-	},
-	{
-		"abr": "logboiler",
-		"price": 642,
-		"category": "Hygiene",
-		"defname": "LogBoiler"
 	},
 	{
 		"abr": "longbow",
@@ -4087,18 +3937,6 @@
 		"defname": "VFE_Plinth"
 	},
 	{
-		"abr": "plumbing",
-		"price": 5,
-		"category": "Misc",
-		"defname": "sewagePipeStuff"
-	},
-	{
-		"abr": "plumbingvalve",
-		"price": 50,
-		"category": "Hygiene",
-		"defname": "plumbingValve"
-	},
-	{
 		"abr": "podlauncher",
 		"price": 230,
 		"category": "Misc",
@@ -4171,12 +4009,6 @@
 		"defname": "PowerConduit"
 	},
 	{
-		"abr": "powershower",
-		"price": 170,
-		"category": "Hygiene",
-		"defname": "ShowerAdvStuff"
-	},
-	{
 		"abr": "powerswitch",
 		"price": 102,
 		"category": "Misc",
@@ -4199,12 +4031,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Gorilla"
-	},
-	{
-		"abr": "primitivewell",
-		"price": 95,
-		"category": "Misc",
-		"defname": "PrimitiveWell"
 	},
 	{
 		"abr": "proteinmash",
@@ -4273,12 +4099,6 @@
 		"defname": "Gun_PumpShotgun"
 	},
 	{
-		"abr": "pumpingstation",
-		"price": 567,
-		"category": "Misc",
-		"defname": "PumpingStation"
-	},
-	{
 		"abr": "quadrefrigerator",
 		"price": 307,
 		"category": "Furniture",
@@ -4313,12 +4133,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Raccoon"
-	},
-	{
-		"abr": "radiator",
-		"price": 85,
-		"category": "Hygiene",
-		"defname": "RadiatorStuffed"
 	},
 	{
 		"abr": "railgun",
@@ -4591,28 +4405,10 @@
 		"defname": "VFES_Turret_SentryGun"
 	},
 	{
-		"abr": "septictank",
-		"price": 658,
-		"category": "Misc",
-		"defname": "SewageSepticTank"
-	},
-	{
 		"abr": "servicerifle",
 		"price": 800,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ServiceRifle"
-	},
-	{
-		"abr": "sewageoutlet",
-		"price": 176,
-		"category": "Misc",
-		"defname": "SewageOutlet"
-	},
-	{
-		"abr": "sewagetreatment",
-		"price": 1725,
-		"category": "Misc",
-		"defname": "SewageTreatment"
 	},
 	{
 		"abr": "sheep",
@@ -4735,12 +4531,6 @@
 		"defname": "VWE_MeleeWeapon_Shovel"
 	},
 	{
-		"abr": "shower",
-		"price": 90,
-		"category": "Hygiene",
-		"defname": "ShowerStuff"
-	},
-	{
 		"abr": "siamesecat",
 		"price": 333,
 		"category": "Animal",
@@ -4799,12 +4589,6 @@
 		"price": 350,
 		"category": "Production",
 		"defname": "SimpleResearchBench"
-	},
-	{
-		"abr": "simpleshower",
-		"price": 52,
-		"category": "Hygiene",
-		"defname": "ShowerSimple"
 	},
 	{
 		"abr": "singlerefrigerator",
@@ -4897,12 +4681,6 @@
 		"defname": "VFE_StatueSmall"
 	},
 	{
-		"abr": "smarttoilet",
-		"price": 182,
-		"category": "Hygiene",
-		"defname": "ToiletAdvStuff"
-	},
-	{
 		"abr": "smg",
 		"price": 558,
 		"category": "Ranged weapons",
@@ -4967,12 +4745,6 @@
 		"price": 492,
 		"category": "Misc",
 		"defname": "SolarGenerator"
-	},
-	{
-		"abr": "solarheater",
-		"price": 244,
-		"category": "Misc",
-		"defname": "SolarHeater"
 	},
 	{
 		"abr": "solidfence",
@@ -5051,12 +4823,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Squirrel"
-	},
-	{
-		"abr": "stalldoor",
-		"price": 18,
-		"category": "Misc",
-		"defname": "ToiletStallDoor"
 	},
 	{
 		"abr": "standinglamp",
@@ -5191,12 +4957,6 @@
 		"defname": "SurrogateStomach"
 	},
 	{
-		"abr": "swimmingpool",
-		"price": 1617,
-		"category": "Misc",
-		"defname": "DBHSwimmingPool"
-	},
-	{
 		"abr": "swordfish",
 		"price": 25,
 		"category": "Raw fish",
@@ -5317,12 +5077,6 @@
 		"defname": "Telescope"
 	},
 	{
-		"abr": "thermostat",
-		"price": 86,
-		"category": "Hygiene",
-		"defname": "Thermostat"
-	},
-	{
 		"abr": "throwingknives",
 		"price": 161,
 		"category": "Ranged weapons",
@@ -5399,12 +5153,6 @@
 		"price": 3900,
 		"category": "Production",
 		"defname": "TableOrgans"
-	},
-	{
-		"abr": "toilet",
-		"price": 72,
-		"category": "Hygiene",
-		"defname": "ToiletStuff"
 	},
 	{
 		"abr": "toolcabinet",
@@ -5611,12 +5359,6 @@
 		"defname": "WakeUp"
 	},
 	{
-		"abr": "walk-infreezerunit",
-		"price": 153,
-		"category": "Hygiene",
-		"defname": "FreezerUnit"
-	},
-	{
 		"abr": "wall",
 		"price": 17,
 		"category": "Misc",
@@ -5707,42 +5449,6 @@
 		"defname": "Meat_Warg"
 	},
 	{
-		"abr": "washingmachine",
-		"price": 433,
-		"category": "Hygiene",
-		"defname": "WashingMachine"
-	},
-	{
-		"abr": "waterbutt",
-		"price": 89,
-		"category": "Furniture",
-		"defname": "WaterButt"
-	},
-	{
-		"abr": "watertower",
-		"price": 258,
-		"category": "Misc",
-		"defname": "WaterTowerS"
-	},
-	{
-		"abr": "watertreatment",
-		"price": 1075,
-		"category": "Misc",
-		"defname": "WaterTreatment"
-	},
-	{
-		"abr": "watertub",
-		"price": 52,
-		"category": "Hygiene",
-		"defname": "WashBucket"
-	},
-	{
-		"abr": "waterwell",
-		"price": 248,
-		"category": "Misc",
-		"defname": "WaterWellInlet"
-	},
-	{
 		"abr": "watermillgenerator",
 		"price": 1000,
 		"category": "Misc",
@@ -5795,12 +5501,6 @@
 		"price": 5,
 		"category": "Leathers",
 		"defname": "AEXP_Leather_Wildebeest"
-	},
-	{
-		"abr": "windpump",
-		"price": 358,
-		"category": "Misc",
-		"defname": "WindPump"
 	},
 	{
 		"abr": "windturbine",
@@ -6768,276 +6468,6 @@
 		"category": "Furniture",
 		"defname": "Bed_StoneSlab"
 	},
-	{
-		"abr": "smallbin",
-		"price": 136,
-		"category": "Furniture",
-		"defname": "Bin_Small"
-	},
-	{
-		"abr": "smokeleafbutter",
-		"price": 12,
-		"category": "Condiments",
-		"defname": "VCE_SmokeleafButter"
-	},
-	{
-		"abr": "soda",
-		"price": 20,
-		"category": "Drugs",
-		"defname": "VBE_Soda"
-	},
-	{
-		"abr": "sodafountain",
-		"price": 185,
-		"category": "Production",
-		"defname": "VBE_SodaFountain"
-	},
-	{
-		"abr": "sodasyrup",
-		"price": 4,
-		"category": "Musts and syrups",
-		"defname": "VBE_SodaSyrup"
-	},
-	{
-		"abr": "spices",
-		"price": 10,
-		"category": "Condiments",
-		"defname": "VCE_RawSpices"
-	},
-	{
-		"abr": "squarechair",
-		"price": 198,
-		"category": "Furniture",
-		"defname": "Seat_SquareChair"
-	},
-	{
-		"abr": "stonecampfire",
-		"price": 128,
-		"category": "Misc",
-		"defname": "Stone_Campfire"
-	},
-	{
-		"abr": "stonespiketrap",
-		"price": 53,
-		"category": "Security",
-		"defname": "FSFStoneTrapSpike"
-	},
-	{
-		"abr": "sugar",
-		"price": 7,
-		"category": "Condiments",
-		"defname": "VCE_RawSugar"
-	},
-	{
-		"abr": "table(1x1)",
-		"price": 70,
-		"category": "Furniture",
-		"defname": "Table_1x1c"
-	},
-	{
-		"abr": "tea",
-		"price": 13,
-		"category": "Drugs",
-		"defname": "VBE_Tea"
-	},
-	{
-		"abr": "tealeaves",
-		"price": 3,
-		"category": "Plant matter",
-		"defname": "VBE_RawTea"
-	},
-	{
-		"abr": "tequila",
-		"price": 25,
-		"category": "Drugs",
-		"defname": "VBE_Tequila"
-	},
-	{
-		"abr": "tequilabarrel",
-		"price": 95,
-		"category": "Production",
-		"defname": "VBE_TequilaBarrel"
-	},
-	{
-		"abr": "tequilamust",
-		"price": 4,
-		"category": "Musts and syrups",
-		"defname": "VBE_TequilaMust"
-	},
-	{
-		"abr": "tobaccoleaves",
-		"price": 3,
-		"category": "Plant matter",
-		"defname": "VBE_RawTobacco"
-	},
-	{
-		"abr": "tomatoes",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "VCE_RawTomatoes"
-	},
-	{
-		"abr": "uncookedfinesoup",
-		"price": 400,
-		"category": "Uncooked soups",
-		"defname": "VCE_UncookedSoupFine"
-	},
-	{
-		"abr": "uncookedgourmetsoup",
-		"price": 625,
-		"category": "Uncooked soups",
-		"defname": "VCE_UncookedSoupGourmet"
-	},
-	{
-		"abr": "uncookedlavishsoup",
-		"price": 500,
-		"category": "Uncooked soups",
-		"defname": "VCE_UncookedSoupLavish"
-	},
-	{
-		"abr": "uncookedsimplesoup",
-		"price": 200,
-		"category": "Uncooked soups",
-		"defname": "VCE_UncookedSoupSimple"
-	},
-	{
-		"abr": "unfermentedcider",
-		"price": 4,
-		"category": "Musts and syrups",
-		"defname": "VBE_UnfermentedCider"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightRedVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightGreenVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightBlueVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightYellowVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightMagentaVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightCyanVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightRoseVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightVioletVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightAzureVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightSpringGreenVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightChartreuseVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightOrangeVII"
-	},
-	{
-		"abr": "vodka",
-		"price": 13,
-		"category": "Drugs",
-		"defname": "VBE_Vodka"
-	},
-	{
-		"abr": "vodkadrum",
-		"price": 82,
-		"category": "Production",
-		"defname": "VBE_VodkaDrum"
-	},
-	{
-		"abr": "vodkamash",
-		"price": 4,
-		"category": "Musts and syrups",
-		"defname": "VBE_VodkaMash"
-	},
-	{
-		"abr": "wake-uppowder",
-		"price": 100,
-		"category": "Condiments",
-		"defname": "VBE_WakeUpPowder"
-	},
-	{
-		"abr": "wardrobe",
-		"price": 285,
-		"category": "Furniture",
-		"defname": "Table_Wardrobe"
-	},
-	{
-		"abr": "weaponrack",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "Shelf_WeaponRack"
-	},
-	{
-		"abr": "whiskey",
-		"price": 50,
-		"category": "Drugs",
-		"defname": "VBE_Whiskey"
-	},
-	{
-		"abr": "whiskeycask",
-		"price": 725,
-		"category": "Production",
-		"defname": "VBE_WhiskeyCask"
-	},
-	{
-		"abr": "whiskeymash",
-		"price": 4,
-		"category": "Musts and syrups",
-		"defname": "VBE_WhiskeyMash"
-	}
 	],
-	"total": 1173
+	"total": 1128
 }
