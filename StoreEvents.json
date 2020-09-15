@@ -2,7 +2,7 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 900,
+		"price": 6500,
 		"karmatype": "Doom"
 	},
 	{
@@ -102,7 +102,7 @@
 	},
 	{
 		"abr": "wandererjoins",
-		"price": 50,
+		"price": 700,
 		"karmatype": "Good"
 	},
 	{
@@ -132,7 +132,7 @@
 	},
 	{
 		"abr": "maninblack",
-		"price": 350,
+		"price": 1350,
 		"karmatype": "Good"
 	},
 	{
@@ -217,28 +217,23 @@
 	},
 	{
 		"abr": "raid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "dropraid",
-		"price": 1500,
-		"karmatype": "Bad"
+		"price": 750,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "sapperraid",
-		"price": 1500,
+		"price": 2001,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "siegeraid",
-		"price": 2500,
+		"price": 1250,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 2500,
-		"karmatype": "Bad"
+		"price": 3000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "infestation",
@@ -257,12 +252,12 @@
 	},
 	{
 		"abr": "randomdisease",
-		"price": 1500,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "disease",
-		"price": 1500,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -272,7 +267,7 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 1,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -282,12 +277,12 @@
 	},
 	{
 		"abr": "trait",
-		"price": 1,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 1,
+		"price": 3500,
 		"karmatype": "Good"
 	},
 	{
@@ -357,9 +352,9 @@
 	},
 	{
 		"abr": "replacetrait",
-		"price": 1,
+		"price": 2500,
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 72
+	"total": 71
 }
