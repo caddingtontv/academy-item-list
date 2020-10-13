@@ -208,7 +208,7 @@
 	{
 		"abr": "shippartpsychic",
 		"price": 2400,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "militaryaid",
@@ -232,7 +232,7 @@
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 3000,
+		"price": 2500,
 		"karmatype": "Doom"
 	},
 	{
