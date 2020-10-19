@@ -127,7 +127,7 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 150,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -342,7 +342,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 150,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
